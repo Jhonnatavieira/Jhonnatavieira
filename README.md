@@ -96,7 +96,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 ### 💻 Tech Stack Highlights
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnatavieira&layout=compact&hide_border=true&title_color=5b79c7&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnatavieira&layout=compact&hide_border=true&title_color=5badc7&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 ---
@@ -104,7 +104,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 ### 🟩 Latest Commit Energy
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jhonnatavieira&show_icons=true&theme=github_dark&hide_border=true&title_color=5b79c7&icon_color=5badc7&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jhonnatavieira&show_icons=true&theme=github_dark&hide_border=true&title_color=5badc7&icon_color=5b79c7&text_color=ffffff" />
 </p>
 
 <p align="center">
