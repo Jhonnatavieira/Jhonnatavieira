@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  I'm driven by a love for technology, learning, and creative exploration. Here you'll discover my projects, hands-on tutorials, and experiments with AI, PHP, Cloud, and beyond 🚀
+  I'm driven by a love for technology, learning, and creative exploration. Here you'll discover my projects, hands-on tutorials, and experiments with AI, Java, Cloud, and beyond 🚀
 </p>
 
 <p align="center">
@@ -19,6 +19,70 @@
   </a>
 </p>
 
+---
+
+### 🤖Languages and Tecnologies
+
+
+<img
+align = "left"
+alt="HTML" 
+title="HTML"
+width="30px"
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img
+align = "left"
+alt="CSS" 
+title="CSS"
+width="30px"
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img
+align = "left"
+alt="Javascript" 
+title="Javascript"
+width="30px"
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img
+align = "left"
+alt="Typescript" 
+title="Typescript"
+width="30px"
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+<img
+align = "left"
+alt="Java" 
+title="Java"
+width="30px"
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img
+align = "left"
+alt="React" 
+title="React"
+width="30px"
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img
+align = "left"
+alt="MySQL" 
+title="MySQL"
+width="30px"
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+<br>
+<br>
+          
 ---
 
 ### 💻 Tech Stack Highlights
