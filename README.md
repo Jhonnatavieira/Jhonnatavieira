@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jhonnata Vieira 👋</h1>
 
 <p align="center">
-  <em>Backend Developer</em>
+  <em>Fullstack Developer • Backend Developer </em>
 </p>
 
 ---
