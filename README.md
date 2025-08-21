@@ -7,15 +7,15 @@
 ---
 
 <p align="center">
-  I'm driven by a love for technology, learning, and creative exploration. Here you'll discover my projects, hands-on tutorials, and experiments with AI, Java, Cloud, and beyond 🚀
+  I'm driven by a love for technology, learning, and creative exploration. Here you'll discover my projects, hands-on tutorials, and experiments with AI, PHP, Cloud, and beyond 🚀
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonnata-vieira-dev/">
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:pro.jhonnata@gmail.com">
-    <img src="https://img.shields.io/badge/-pro.jhonnata@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
