@@ -21,7 +21,7 @@
 
 ---
 
-### 🤖Languages and Tecnologies
+### 🤖 Languages and Tecnologies
 
 
 <img
