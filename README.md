@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonnata-vieira-dev/">
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
   </a>
   <a href="mailto:pro.jhonnata@gmail.com">
     <img src="https://img.shields.io/badge/-pro.jhonnata@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
