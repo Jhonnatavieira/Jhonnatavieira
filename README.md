@@ -103,9 +103,6 @@ src="https://skillicons.dev/icons?i=mysql" />
 
 ### 🟩 Latest Commit Energy
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jhonnatavieira&show_icons=true&theme=github_dark&hide_border=true&title_color=5badc7&icon_color=5b79c7&text_color=ffffff&include_all_commits=true" />
-</p>
 
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
